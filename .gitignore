@@ -1,0 +1,32 @@
+# 忽略敏感配置文件
+#config.py
+*.env
+product_config.json 
+
+# 忽略 Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 忽略虚拟环境
+venv/
+env/
+.venv/
+ENV/
+
+# 忽略下载的图片目录
+product_image/
+*.jpg
+*.png
+*.jpeg
+*.webp
+*.mp4
+
+# 忽略日志文件
+*.log
+
+# 忽略 IDE 配置
+.idea/
+.vscode/
+.DS_Store

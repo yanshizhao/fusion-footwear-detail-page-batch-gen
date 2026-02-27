@@ -1,0 +1,4 @@
+openai==2.15.0
+requests==2.32.5
+tos==2.8.8b1
+Pillow==9.5.0
